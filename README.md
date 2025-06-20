@@ -2,7 +2,7 @@
 
 A ideia surgiu justamente para tornar esse processo mais organizado e eficiente. Como ex-funcionário, sei o quanto um sistema simples, visual e funcional pode ajudar nas tarefas cotidianas como localizar um livro, dar baixa após a venda e organizar os espaços físicos do sebo.
 
-Este projeto também tem como objetivo mostrar como soluções reais podem ser construídas com base em experiências práticas de trabalho, servindo como exemplo para quem está começando a aprender ou desenvolvendo sistemas similares.
+Este projeto também tem como objetivo mostrar como soluções reais podem ser construídas com base em experiências práticas de trabalho.
 
 
 ## 🚀 Funcionalidades
